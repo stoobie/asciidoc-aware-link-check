@@ -127,5 +127,9 @@ hr {
 	}
 }
 
+pre.highlight {
+	white-space: pre-wrap;
+}
+
 @import "typography";
 @import "tables";
