@@ -128,7 +128,9 @@ hr {
 }
 
 pre.highlight {
-	white-space: pre-wrap;
+	overflow-x: auto;
+	white-space: pre;
+	word-wrap: normal;
 }
 
 @import "typography";
