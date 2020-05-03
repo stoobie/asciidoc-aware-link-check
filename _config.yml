@@ -1,4 +1,4 @@
-title: Researcher
+title: asciidoc-aware-link-checker npm module
 url: "https://adoclinkcheck.edseek.com"
 baseurl: ""
 
@@ -20,5 +20,5 @@ nav:
 #   link: "/researcher/"
 # - name: "Resume"
 #   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+# - name: "Contact"
+#   link: "contact"
